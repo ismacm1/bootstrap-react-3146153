@@ -6,7 +6,7 @@ export const ExtensionCard = ({cardTitle, cardImage, cardDescripcion}) => {
     <>
     <h1 className='title'>Card Extension</h1>
     
-    <div className="card">
+    <div className="tarjeta">
     <div className="info">
     <div className="icon">🧭</div>
     <div>
